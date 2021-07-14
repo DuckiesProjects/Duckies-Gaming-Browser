@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bate5a.com" resolutions="1x" timestamp="1626228728202">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3882031393" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4226069307" seo="true" mt="1626217902193" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="529084833" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="mvi_0746sparks1.mp4" crc="4274903433" seo="true" mt="1626211148000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="163421577" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="168988563" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:phone>index"/>
+    <file name="require.js" crc="244322403" ref="index:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="maintitle.png" crc="260173881" seo="true" ref="index:phone>index"/>
+    <file name="highperpng.png" crc="405153754" seo="true" ref="index"/>
+    <file name="energy-icon.png" crc="3874667630" seo="true" ref="index"/>
+    <file name="1561753.png" crc="3947190763" seo="true" ref="index"/>
+    <file name="queue-music-1779820-1513985.png" crc="214969947" seo="true" ref="index"/>
+    <file name="cloud-download-2.png" crc="358091337" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4104952041" seo="true" mt="1626228717130" redirect="true"/>
+</manifest>
